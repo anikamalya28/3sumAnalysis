@@ -9,6 +9,7 @@ public class ThreeSumFast {
 
     public static int count(int[] a) {
         int count = 0;
+
         //TODO: Finish THreeSumFast by first using Array.sort then use BinarySearch to help find the thrid number
 
         return count;
